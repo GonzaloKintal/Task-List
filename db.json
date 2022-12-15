@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Hacer las compras para la cena",
+      "day": "Agosto 6 a las 17:00hs",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Investigar sobre Boostrap",
+      "day": "Agosto 7 a las 19:00hs",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Leer 50 páginas del libro actual",
+      "day": "Agosto 8 a las 10:00hs",
+      "reminder": false
+    },
+    {
+      "text": "Estudiar Inglés en las vacaciones",
+      "day": "A partir del 1 de enero",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
